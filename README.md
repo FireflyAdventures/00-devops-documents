@@ -3,21 +3,23 @@ This version is created for MLH January 2024 online hackathon with sponsorship f
 
 ## This most useful document is the 1 page "GithubGuideToSystemElements20240131.ppt" which graphically portrays the system and the repositories.
 
-STATIC WEBPAGE
-www.firefly-adventures.com
+STATIC WEBPAGE:   www.firefly-adventures.com
 
-OUTLINE OF GITHUB REPOS BY SYSTEM TIER
+GITHUB REPOS BY SYSTEM TIER
 
-FRONTEND
-(1A) 03C-fe-minimalist-static-CF  = Website for home & static code
-(1B) 03B-fe-react-dynamic = Website for database & AI dependent code
-
-MIDTIER
-(2A) 02B-mid-dotnet-julian = .NET/C# Midtier 
-(2B) 02B-mid-python = Python Midtier
+PLAN, CODE TALKS 
+00-devops-documents = Concept and working documents
 
 BACKEND
-(4) 01A-be-sqlserver = SQL database scripts
+01A-be-sqlserver = SQL database scripts
+
+MIDTIER
+02B-mid-dotnet-julian = .NET/C# Midtier 
+02B-mid-python = Python Midtier
+
+FRONTEND
+03C-fe-minimalist-static-CF  = Website for home & static code
+03B-fe-react-dynamic = Website for database & AI dependent code
 
 ## Follow our progress here on devpost.com:
 https://devpost.com/software/firefly-adventures
