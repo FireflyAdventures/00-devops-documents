@@ -8,18 +8,18 @@ STATIC WEBPAGE:   www.firefly-adventures.com
 GITHUB REPOS BY SYSTEM TIER
 
 PLAN, CODE TALKS 
-00-devops-documents = Concept and working documents
+## 00-devops-documents = Concept and working documents
 
 BACKEND
-01A-be-sqlserver = SQL database scripts
+## 01A-be-sqlserver = SQL database scripts
 
 MIDTIER
-02B-mid-dotnet-julian = .NET/C# Midtier 
-02B-mid-python = Python Midtier
+## 02B-mid-dotnet-julian = .NET/C# Midtier 
+## 02B-mid-python = Python Midtier
 
 FRONTEND
-03C-fe-minimalist-static-CF  = Website for home & static code
-03B-fe-react-dynamic = Website for database & AI dependent code
+## 03C-fe-minimalist-static-CF  = Website for home & static code
+## 03B-fe-react-dynamic = Website for database & AI dependent code
 
 ## Follow our progress here on devpost.com:
 https://devpost.com/software/firefly-adventures
